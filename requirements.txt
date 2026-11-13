@@ -4,3 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
+confluent-kafka
+psycopg2-binary
